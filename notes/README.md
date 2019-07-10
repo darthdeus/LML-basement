@@ -1,0 +1,1 @@
+Big thanks to Xavier Garcia for writing these amazing notes. His mathematical rigor is an inspiration to us all.
